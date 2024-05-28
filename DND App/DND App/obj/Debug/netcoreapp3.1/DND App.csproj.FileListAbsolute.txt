@@ -1,0 +1,21 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\bin\Debug\netcoreapp3.1\DND App.exe
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\bin\Debug\netcoreapp3.1\DND App.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\bin\Debug\netcoreapp3.1\DND App.runtimeconfig.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\bin\Debug\netcoreapp3.1\DND App.runtimeconfig.dev.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\bin\Debug\netcoreapp3.1\DND App.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\bin\Debug\netcoreapp3.1\DND App.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App_MarkupCompile.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App_MarkupCompile.lref
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App.g.resources
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\DND App.genruntimeconfig.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\MapEdit.g.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\DND App\DND App\obj\Debug\netcoreapp3.1\MapEdit.baml
